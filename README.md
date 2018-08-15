@@ -1,4 +1,4 @@
-﻿# Binary Data Exchange Format
+# Binary Data Exchange Format
 
 Early draft of a general-purpose binary data format
 
@@ -157,7 +157,7 @@ This type definition would be similar to this JSON
 
 ```json
 {
-  "Name": "Person"
+  "Name": "Person",
   "Properties": [
     {
       "Name": "Name",
